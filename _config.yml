@@ -1,0 +1,8 @@
+#source: src
+server: true
+auto: true
+title: "2013 Washington Legislators"
+baseurl: "wa-legislators"
+exclude:
+- .gitignore
+- README.md
