@@ -2,7 +2,7 @@
 server: true
 auto: true
 title: "2013 Washington Legislators"
-baseurl: "wa-legislators"
+baseurl: "/walegislators"
 exclude:
 - .gitignore
 - README.md
