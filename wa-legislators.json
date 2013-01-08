@@ -1,0 +1,1327 @@
+{
+  "rows" : [
+    {
+      "leg_id" : "WAL000058",
+      "full_name" : "Andy Billig",
+      "chamber" : "lower",
+      "district" : 3,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/billig.jpg",
+      "twitter" : "andybillig"
+    },
+    {
+      "leg_id" : "WAL000123",
+      "full_name" : "Ann Rivers",
+      "chamber" : "upper",
+      "district" : 18,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/rivers.jpg",
+      "twitter" : "annmrivers"
+    },
+    {
+      "leg_id" : "WAL000057",
+      "full_name" : "Barbara Bailey",
+      "chamber" : "lower",
+      "district" : 10,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/bailey.jpg",
+      "twitter" : "BarbBaileyWA10"
+    },
+    {
+      "leg_id" : "WAL000086",
+      "full_name" : "Bill Hinkle",
+      "chamber" : "lower",
+      "district" : 13,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hinkle.jpg",
+      "twitter" : "billhinkle"
+    },
+    {
+      "leg_id" : "WAL000085",
+      "full_name" : "Bob Hasegawa",
+      "chamber" : "lower",
+      "district" : 11,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hasegawa.jpg",
+      "twitter" : "bobhasegawa"
+    },
+    {
+      "leg_id" : "WAL000037",
+      "full_name" : "Craig Pridemore",
+      "chamber" : "upper",
+      "district" : 49,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/pridemore.jpg",
+      "twitter" : "CraigPridemore"
+    },
+    {
+      "leg_id" : "WAL000142",
+      "full_name" : "Dave Upthegrove",
+      "chamber" : "lower",
+      "district" : 33,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/upthegrove.jpg",
+      "twitter" : "DaveUpthegrove"
+    },
+    {
+      "leg_id" : "WAL000074",
+      "full_name" : "Deb Eddy",
+      "chamber" : "lower",
+      "district" : 48,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/eddy.jpg",
+      "twitter" : "debeddy"
+    },
+    {
+      "leg_id" : "WAL000147",
+      "full_name" : "Hans Zeiger",
+      "chamber" : "lower",
+      "district" : 25,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/zeiger.jpg",
+      "twitter" : "hanszeiger"
+    },
+    {
+      "leg_id" : "WAL000022",
+      "full_name" : "Jim Honeyford",
+      "chamber" : "upper",
+      "district" : 15,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/honeyford.jpg",
+      "twitter" : "jimhoneyford"
+    },
+    {
+      "leg_id" : "WAL000109",
+      "full_name" : "Jim Moeller",
+      "chamber" : "lower",
+      "district" : 49,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/moeller.jpg",
+      "twitter" : "Jimmoeller"
+    },
+    {
+      "leg_id" : "WAL000077",
+      "full_name" : "Joe Fitzgibbon",
+      "chamber" : "lower",
+      "district" : 34,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/fitzgibbon.jpg",
+      "twitter" : "joefitzgibbon"
+    },
+    {
+      "leg_id" : "WAL000146",
+      "full_name" : "J.T. Wilcox",
+      "chamber" : "lower",
+      "district" : 2,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/wilcox.jpg",
+      "twitter" : "jtwilcox111"
+    },
+    {
+      "leg_id" : "WAL000117",
+      "full_name" : "Kevin Parker",
+      "chamber" : "lower",
+      "district" : 6,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/parker.jpg",
+      "twitter" : "kevincparker"
+    },
+    {
+      "leg_id" : "WAL000143",
+      "full_name" : "Kevin Van De Wege",
+      "chamber" : "lower",
+      "district" : 24,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/vandewege.jpg",
+      "twitter" : "kevinvandewege"
+    },
+    {
+      "leg_id" : "WAL000131",
+      "full_name" : "Larry Seaquist",
+      "chamber" : "lower",
+      "district" : 26,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/seaquist.jpg",
+      "twitter" : "larryseaquist"
+    },
+    {
+      "leg_id" : "WAL000093",
+      "full_name" : "Laurie Jinkins",
+      "chamber" : "lower",
+      "district" : 27,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/jinkins.jpg",
+      "twitter" : "lauriejinkins"
+    },
+    {
+      "leg_id" : "WAL000014",
+      "full_name" : "James Hargrove",
+      "chamber" : "upper",
+      "district" : 24,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/hargrove.jpg",
+      "twitter" : "MarkHargrove"
+    },
+    {
+      "leg_id" : "WAL000103",
+      "full_name" : "Marko Liias",
+      "chamber" : "lower",
+      "district" : 21,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/liias.jpg",
+      "twitter" : "MarkoLiias, RepMarkoLiias"
+    },
+    {
+      "leg_id" : "WAL000087",
+      "full_name" : "Mike Hope",
+      "chamber" : "lower",
+      "district" : 44,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hope.jpg",
+      "twitter" : "Mike_Hope_"
+    },
+    {
+      "leg_id" : "WAL000082",
+      "full_name" : "Larry Haler",
+      "chamber" : "lower",
+      "district" : 8,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/haler.jpg",
+      "twitter" : "Nuke7"
+    },
+    {
+      "leg_id" : "WAL000120",
+      "full_name" : "Eric Pettigrew",
+      "chamber" : "lower",
+      "district" : 37,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/pettigrew.jpg",
+      "twitter" : "pettigrew2010"
+    },
+    {
+      "leg_id" : "WAL000071",
+      "full_name" : "Richard DeBolt",
+      "chamber" : "lower",
+      "district" : 20,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/debolt.jpg",
+      "twitter" : "RepDeBolt"
+    },
+    {
+      "leg_id" : "WAL000133",
+      "full_name" : "Matt Shea",
+      "chamber" : "lower",
+      "district" : 4,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/shea.jpg",
+      "twitter" : "RepMattShea"
+    },
+    {
+      "leg_id" : "WAL000061",
+      "full_name" : "Reuven Carlyle",
+      "chamber" : "lower",
+      "district" : 36,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/carlyle.jpg",
+      "twitter" : "Reuvencarlyle"
+    },
+    {
+      "leg_id" : "WAL000079",
+      "full_name" : "Roger Goodman",
+      "chamber" : "lower",
+      "district" : 45,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/goodman.jpg",
+      "twitter" : "rogeregoodman"
+    },
+    {
+      "leg_id" : "WAL000090",
+      "full_name" : "Ross Hunter",
+      "chamber" : "lower",
+      "district" : 48,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hunter.jpg",
+      "twitter" : "rosshunter"
+    },
+    {
+      "leg_id" : "WAL000004",
+      "full_name" : "Don Benton",
+      "chamber" : "upper",
+      "district" : 17,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/benton.jpg",
+      "twitter" : "SenatorBenton"
+    },
+    {
+      "leg_id" : "WAL000005",
+      "full_name" : "Lisa Brown",
+      "chamber" : "upper",
+      "district" : 3,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/brown.jpg",
+      "twitter" : "SenatorLisa"
+    },
+    {
+      "leg_id" : "WAL000075",
+      "full_name" : "Susan Fagan",
+      "chamber" : "lower",
+      "district" : 9,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/fagan.jpg",
+      "twitter" : "susanfagan"
+    },
+    {
+      "leg_id" : "WAL000110",
+      "full_name" : "Jeff Morris",
+      "chamber" : "lower",
+      "district" : 40,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/morris.jpg",
+      "twitter" : "TheRostrum"
+    },
+    {
+      "leg_id" : "WAL000115",
+      "full_name" : "Tina Orwall",
+      "chamber" : "lower",
+      "district" : 33,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/orwall.jpg",
+      "twitter" : "tinaorwall"
+    },
+    {
+      "leg_id" : "WAL000047",
+      "full_name" : "Rodney Tom",
+      "chamber" : "upper",
+      "district" : 48,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/tom.jpg",
+      "twitter" : "tomrodney"
+    },
+    {
+      "leg_id" : "WAL000096",
+      "full_name" : "Troy Kelley",
+      "chamber" : "lower",
+      "district" : 28,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/kelley.jpg",
+      "twitter" : "Troy_Kelley"
+    },
+    {
+      "leg_id" : "WAL000060",
+      "full_name" : "Vincent Buys",
+      "chamber" : "lower",
+      "district" : 42,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/buys.jpg",
+      "twitter" : "VincentBuys"
+    },
+    {
+      "leg_id" : "WAL000116",
+      "full_name" : "Jason Overstreet",
+      "chamber" : "lower",
+      "district" : 42,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/overstreet.jpg",
+      "twitter" : "VoteOverstreet"
+    },
+    {
+      "leg_id" : "WAL000136",
+      "full_name" : "Larry Springer",
+      "chamber" : "lower",
+      "district" : 45,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/springer.jpg",
+      "twitter" : "VoteSpringer"
+    },
+    {
+      "leg_id" : "WAL000050",
+      "full_name" : "John Ahern",
+      "chamber" : "lower",
+      "district" : 6,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/ahern.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000051",
+      "full_name" : "Gary Alexander",
+      "chamber" : "lower",
+      "district" : 20,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/alexander.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000052",
+      "full_name" : "Glenn Anderson",
+      "chamber" : "lower",
+      "district" : 5,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/anderson.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000053",
+      "full_name" : "Jan Angel",
+      "chamber" : "lower",
+      "district" : 26,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/angel.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000054",
+      "full_name" : "Sherry Appleton",
+      "chamber" : "lower",
+      "district" : 23,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/appleton.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000055",
+      "full_name" : "Mike Armstrong",
+      "chamber" : "lower",
+      "district" : 12,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/armstrong.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000056",
+      "full_name" : "Katrina Asay",
+      "chamber" : "lower",
+      "district" : 30,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/asay.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000059",
+      "full_name" : "Brian Blake",
+      "chamber" : "lower",
+      "district" : 19,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/blake.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000062",
+      "full_name" : "Bruce Chandler",
+      "chamber" : "lower",
+      "district" : 15,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/chandler.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000063",
+      "full_name" : "Frank Chopp",
+      "chamber" : "lower",
+      "district" : 43,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/chopp.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000064",
+      "full_name" : "Judy Clibborn",
+      "chamber" : "lower",
+      "district" : 41,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/clibborn.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000065",
+      "full_name" : "Eileen Cody",
+      "chamber" : "lower",
+      "district" : 34,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/cody.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000066",
+      "full_name" : "Cary Condotta",
+      "chamber" : "lower",
+      "district" : 12,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/condotta.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000067",
+      "full_name" : "Larry Crouse",
+      "chamber" : "lower",
+      "district" : 4,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/crouse.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000068",
+      "full_name" : "Cathy Dahlquist",
+      "chamber" : "lower",
+      "district" : 31,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/dahlquist.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000069",
+      "full_name" : "Bruce Dammeier",
+      "chamber" : "lower",
+      "district" : 25,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/dammeier.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000070",
+      "full_name" : "Jeannie Darneille",
+      "chamber" : "lower",
+      "district" : 27,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/darneille.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000072",
+      "full_name" : "Mary Lou Dickerson",
+      "chamber" : "lower",
+      "district" : 36,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/dickerson.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000073",
+      "full_name" : "Hans Dunshee",
+      "chamber" : "lower",
+      "district" : 44,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/dunshee.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000076",
+      "full_name" : "Fred Finn",
+      "chamber" : "lower",
+      "district" : 35,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/finn.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000080",
+      "full_name" : "Tami Green",
+      "chamber" : "lower",
+      "district" : 28,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/green.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000081",
+      "full_name" : "Kathy Haigh",
+      "chamber" : "lower",
+      "district" : 35,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/haigh.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000150",
+      "full_name" : "Drew Hansen",
+      "chamber" : "lower",
+      "district" : 23,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hansen.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000083",
+      "full_name" : "Mark Hargrove",
+      "chamber" : "lower",
+      "district" : 47,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hargrove.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000084",
+      "full_name" : "Paul Harris",
+      "chamber" : "lower",
+      "district" : 17,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/harris.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000088",
+      "full_name" : "Zack Hudgins",
+      "chamber" : "lower",
+      "district" : 11,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hudgins.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000089",
+      "full_name" : "Sam Hunt",
+      "chamber" : "lower",
+      "district" : 22,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hunt.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000091",
+      "full_name" : "Christopher Hurst",
+      "chamber" : "lower",
+      "district" : 31,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/hurst.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000094",
+      "full_name" : "Norm Johnson",
+      "chamber" : "lower",
+      "district" : 14,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/johnson.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000095",
+      "full_name" : "Ruth Kagi",
+      "chamber" : "lower",
+      "district" : 32,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/kagi.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000097",
+      "full_name" : "Phyllis Gutierrez Kenney",
+      "chamber" : "lower",
+      "district" : 46,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/kenney.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000098",
+      "full_name" : "Steve Kirby",
+      "chamber" : "lower",
+      "district" : 29,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/kirby.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000099",
+      "full_name" : "Brad Klippert",
+      "chamber" : "lower",
+      "district" : 8,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/klippert.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000100",
+      "full_name" : "Joel Kretz",
+      "chamber" : "lower",
+      "district" : 7,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/kretz.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000101",
+      "full_name" : "Dan Kristiansen",
+      "chamber" : "lower",
+      "district" : 39,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/kristiansen.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000102",
+      "full_name" : "Connie Ladenburg",
+      "chamber" : "lower",
+      "district" : 29,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/ladenburg.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000104",
+      "full_name" : "Kristine Lytton",
+      "chamber" : "lower",
+      "district" : 40,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/lytton.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000105",
+      "full_name" : "Marcie Maxwell",
+      "chamber" : "lower",
+      "district" : 41,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/maxwell.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000106",
+      "full_name" : "John McCoy",
+      "chamber" : "lower",
+      "district" : 38,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/mccoy.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000107",
+      "full_name" : "Jim McCune",
+      "chamber" : "lower",
+      "district" : 2,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/mccune.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000108",
+      "full_name" : "Mark Miloscia",
+      "chamber" : "lower",
+      "district" : 30,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/miloscia.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000111",
+      "full_name" : "Luis Moscoso",
+      "chamber" : "lower",
+      "district" : 1,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/moscoso.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000112",
+      "full_name" : "Terry Nealey",
+      "chamber" : "lower",
+      "district" : 16,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/nealey.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000113",
+      "full_name" : "Ed Orcutt",
+      "chamber" : "lower",
+      "district" : 18,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/orcutt.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000114",
+      "full_name" : "Timm Ormsby",
+      "chamber" : "lower",
+      "district" : 3,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/ormsby.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000118",
+      "full_name" : "Kirk Pearson",
+      "chamber" : "lower",
+      "district" : 39,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/pearson.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000119",
+      "full_name" : "Jamie Pedersen",
+      "chamber" : "lower",
+      "district" : 43,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/pedersen.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000157",
+      "full_name" : "Liz Pike",
+      "chamber" : "lower",
+      "district" : 18,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/pike.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000154",
+      "full_name" : "Gerry Pollet",
+      "chamber" : "lower",
+      "district" : 46,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/pollet.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000121",
+      "full_name" : "Tim Probst",
+      "chamber" : "lower",
+      "district" : 17,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/probst.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000122",
+      "full_name" : "Chris Reykdal",
+      "chamber" : "lower",
+      "district" : 22,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/reykdal.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000124",
+      "full_name" : "Mary Helen Roberts",
+      "chamber" : "lower",
+      "district" : 21,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/roberts.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000125",
+      "full_name" : "Jay Rodne",
+      "chamber" : "lower",
+      "district" : 5,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/rodne.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000127",
+      "full_name" : "Charles Ross",
+      "chamber" : "lower",
+      "district" : 14,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/ross.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000128",
+      "full_name" : "Cindy Ryu",
+      "chamber" : "lower",
+      "district" : 32,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/ryu.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000129",
+      "full_name" : "Sharon Tomiko Santos",
+      "chamber" : "lower",
+      "district" : 37,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/santos.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000130",
+      "full_name" : "Joe Schmick",
+      "chamber" : "lower",
+      "district" : 9,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/schmick.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000132",
+      "full_name" : "Mike Sells",
+      "chamber" : "lower",
+      "district" : 38,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/sells.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000134",
+      "full_name" : "Shelly Short",
+      "chamber" : "lower",
+      "district" : 7,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/short.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000135",
+      "full_name" : "Norma Smith",
+      "chamber" : "lower",
+      "district" : 10,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/smith.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000137",
+      "full_name" : "Derek Stanford",
+      "chamber" : "lower",
+      "district" : 1,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/stanford.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000138",
+      "full_name" : "Pat Sullivan",
+      "chamber" : "lower",
+      "district" : 47,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/sullivan.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000139",
+      "full_name" : "Dean Takko",
+      "chamber" : "lower",
+      "district" : 19,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/takko.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000140",
+      "full_name" : "David Taylor",
+      "chamber" : "lower",
+      "district" : 15,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/taylor.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000141",
+      "full_name" : "Steve Tharinger",
+      "chamber" : "lower",
+      "district" : 24,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/tharinger.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000144",
+      "full_name" : "Maureen Walsh",
+      "chamber" : "lower",
+      "district" : 16,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/walsh.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000145",
+      "full_name" : "Judy Warnick",
+      "chamber" : "lower",
+      "district" : 13,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/warnick.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000148",
+      "full_name" : "Sharon Wylie",
+      "chamber" : "lower",
+      "district" : 49,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/house/representatives/publishingimages/wylie.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000001",
+      "full_name" : "Michael Baumgartner",
+      "chamber" : "upper",
+      "district" : 6,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/baumgartner.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000003",
+      "full_name" : "Randi Becker",
+      "chamber" : "upper",
+      "district" : 2,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/becker.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000006",
+      "full_name" : "Mike Carrell",
+      "chamber" : "upper",
+      "district" : 28,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/carrell.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000007",
+      "full_name" : "Maralyn Chase",
+      "chamber" : "upper",
+      "district" : 32,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/chase.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000008",
+      "full_name" : "Steve Conway",
+      "chamber" : "upper",
+      "district" : 29,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/conway.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000009",
+      "full_name" : "Jerome Delvin",
+      "chamber" : "upper",
+      "district" : 8,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/delvin.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000010",
+      "full_name" : "Tracey Eide",
+      "chamber" : "upper",
+      "district" : 30,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/eide.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000011",
+      "full_name" : "Doug Ericksen",
+      "chamber" : "upper",
+      "district" : 42,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/ericksen.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000012",
+      "full_name" : "Joe Fain",
+      "chamber" : "upper",
+      "district" : 47,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/fain.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000013",
+      "full_name" : "Karen Fraser",
+      "chamber" : "upper",
+      "district" : 22,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/fraser.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000078",
+      "full_name" : "David Frockt",
+      "chamber" : "upper",
+      "district" : 46,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/frockt.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000015",
+      "full_name" : "Nick Harper",
+      "chamber" : "upper",
+      "district" : 38,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/harper.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000016",
+      "full_name" : "Brian Hatfield",
+      "chamber" : "upper",
+      "district" : 19,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/hatfield.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000017",
+      "full_name" : "Mary Margaret Haugen",
+      "chamber" : "upper",
+      "district" : 10,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/haugen.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000018",
+      "full_name" : "Mike Hewitt",
+      "chamber" : "upper",
+      "district" : 16,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/hewitt.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000019",
+      "full_name" : "Andy Hill",
+      "chamber" : "upper",
+      "district" : 45,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/hill.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000020",
+      "full_name" : "Steve Hobbs",
+      "chamber" : "upper",
+      "district" : 44,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/hobbs.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000021",
+      "full_name" : "JanÃ©a Holmquist Newbry",
+      "chamber" : "upper",
+      "district" : 13,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/holmquistnewbry.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000023",
+      "full_name" : "Jim Kastama",
+      "chamber" : "upper",
+      "district" : 25,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/kastama.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000024",
+      "full_name" : "Karen Keiser",
+      "chamber" : "upper",
+      "district" : 33,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/keiser.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000025",
+      "full_name" : "Derek Kilmer",
+      "chamber" : "upper",
+      "district" : 26,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/kilmer.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000026",
+      "full_name" : "Curtis King",
+      "chamber" : "upper",
+      "district" : 14,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/king.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000027",
+      "full_name" : "Adam Kline",
+      "chamber" : "upper",
+      "district" : 37,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/kline.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000028",
+      "full_name" : "Jeanne Kohl-Welles",
+      "chamber" : "upper",
+      "district" : 36,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/kohl-welles.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000029",
+      "full_name" : "Steve Litzow",
+      "chamber" : "upper",
+      "district" : 41,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/litzow.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000030",
+      "full_name" : "Rosemary McAuliffe",
+      "chamber" : "upper",
+      "district" : 1,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/mcauliffe.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000031",
+      "full_name" : "Bob Morton",
+      "chamber" : "upper",
+      "district" : 7,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/morton.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000032",
+      "full_name" : "Ed Murray",
+      "chamber" : "upper",
+      "district" : 43,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/murray.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000033",
+      "full_name" : "Sharon Nelson",
+      "chamber" : "upper",
+      "district" : 34,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/nelson.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000152",
+      "full_name" : "Mike Padden",
+      "chamber" : "upper",
+      "district" : 4,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/padden.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000034",
+      "full_name" : "Linda Evans Parlette",
+      "chamber" : "upper",
+      "district" : 12,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/parlette.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000036",
+      "full_name" : "Margarita Prentice",
+      "chamber" : "upper",
+      "district" : 11,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/prentice.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000038",
+      "full_name" : "Kevin Ranker",
+      "chamber" : "upper",
+      "district" : 40,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/ranker.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000039",
+      "full_name" : "Debbie Regala",
+      "chamber" : "upper",
+      "district" : 27,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/regala.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000040",
+      "full_name" : "Pam Roach",
+      "chamber" : "upper",
+      "district" : 31,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/roach.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000126",
+      "full_name" : "Christine Rolfes",
+      "chamber" : "upper",
+      "district" : 23,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/rolfes.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000156",
+      "full_name" : "Dino Rossi",
+      "chamber" : "upper",
+      "district" : 5,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/rossi.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000042",
+      "full_name" : "Mark Schoesler",
+      "chamber" : "upper",
+      "district" : 9,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/schoesler.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000043",
+      "full_name" : "Tim Sheldon",
+      "chamber" : "upper",
+      "district" : 35,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/sheldon.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000044",
+      "full_name" : "Paull Shin",
+      "chamber" : "upper",
+      "district" : 21,
+      "party" : "Democratic",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/shin.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000045",
+      "full_name" : "Val Stevens",
+      "chamber" : "upper",
+      "district" : 39,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/stevens.jpg",
+      "twitter" : null
+    },
+    {
+      "leg_id" : "WAL000046",
+      "full_name" : "Dan Swecker",
+      "chamber" : "upper",
+      "district" : 20,
+      "party" : "Republican",
+      "photo_url" : "http://www.leg.wa.gov/senate/senators/publishingimages/swecker.jpg",
+      "twitter" : null
+    }
+  ]
+}
