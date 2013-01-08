@@ -29,7 +29,6 @@
     </header>
     <div class="description">
     </div>
-    
   </div>
   
   <!-- TEMPLATES -->
@@ -38,7 +37,14 @@
       <div class="legislator-photo">
         <img src="<%= photo_url %>" />
       </div>
-      <h3 class="legislator-name"><%= full_name %> <span class="legislator-party"><%= party %></span></h3>
+      <div class="legislator-details">
+        <a href="<%= website %>" target="_blank">Profile on leg.wa.gov</a>
+        <% if ( twitter !== null) { %>
+          <a href="http://twitter.com/<%= twitter %>" target="_blank">@<%= twitter %></a>
+        <% } %>
+      </div>
+      <h3 class="legislator-name"><%= full_name %></h3>
+      <h4 class="legislator-district">District <%= district %>  |  <%= chamber %> <span class="legislator-party">(<%= party %>)</span></h4>
     </div>
   </script>
   
