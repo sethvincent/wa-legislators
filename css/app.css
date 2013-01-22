@@ -36,6 +36,10 @@ header h1 {
   margin-top: -5px;
 }
 
+.description {
+  margin: 0px 0px 20px 14px;
+}
+
 .legislators {
   margin-left: 14px;
 }
@@ -48,19 +52,69 @@ header h1 {
 }
 
 .legislator-details {
-  width: 130px;
-  height: 120px;
-  margin-top: -120px;
-  background-color: #f3f3ec;
-  background-color: rgba(243, 243, 236, 0.9);
+  background-color: #fff;
+  width: 480px;
+  height: 320px;
   z-index: 1000;
-  position: relative;
-  padding: 0px 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -160px;
+  margin-left: -240px;
+  padding: 20px 20px;
+  border: 1px solid #c6c6c3;
   display: none;
 }
 
-.legislator:hover .legislator-details {
+.legislator-details .legislator-photo {
+  float: left;
+  margin-right: 20px;
+}
+
+.legislator-details h3.legislator-name {
+  font-size: 25px;
+  line-height: 45px;
+}
+
+.legislator-details h4.legislator-district {
+  padding-bottom: 15px;
+  border-bottom: 1px solid #d6d6d3;
+}
+
+p.legislator-profile {
   display: block;
+  float: left;
+  clear: left;
+}
+
+p.legislator-profile a {
+  padding: 8px 14px 6px;
+  background-color: #f1f1ec;
+  display: block;
+  float: left;
+  font-size: 12px;
+  text-decoration: none;
+  color: #565653;
+}
+
+p.legislator-profile a:hover {
+  background-color: #E7E7DF;
+  color: #333;
+}
+
+.legislator-details .close {
+  float: right;
+  font-size: 15px;
+  padding: 4px 5px 5px;
+  margin-top: -5px;
+  margin-right: -5px;
+  line-height: 10px;
+  cursor: pointer;
+}
+
+.legislator-details .close:hover {
+  background-color: #666663;
+  color: #fff;
 }
 
 h3.legislator-name {

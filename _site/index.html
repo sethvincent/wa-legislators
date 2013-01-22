@@ -21,11 +21,12 @@
     <![endif]-->
     <header>
       <a href="http://crosscut.com/politics-government/washington-legislature/" alt="washington legislature">
-        <img class="oly-logo" src="http://crosscut.com/media/resized_image/story_image/oly_session_logo_fit_300x300.png" />
+        <img class="oly-logo" src="/wa-legislators/img/oly_session_logo.png" />
       </a>
       <h1 class="title">Washington's 2013 Legislators</h1>
     </header>
     <div class="description">
+      Click a legislator for details.
     </div>
   </div>
   
@@ -35,12 +36,20 @@
       <div class="legislator-photo">
         <img src="<%= photo_url %>" />
       </div>
+      
       <div class="legislator-details">
-        <a href="<%= website %>" target="_blank">Profile on leg.wa.gov</a>
+        <span class="close">x</span>
+        <div class="legislator-photo">
+          <img src="<%= photo_url %>" />
+        </div>
+        <h3 class="legislator-name"><%= full_name %></h3>
+        <h4 class="legislator-district">District <%= district %>  |  <%= chamber %> <span class="legislator-party">(<%= party %>)</span></h4>
+        <p class="legislator-profile"><a href="<%= website %>" target="_blank">Profile on leg.wa.gov</a></p>
         <% if ( twitter !== null) { %>
-          <a href="http://twitter.com/<%= twitter %>" target="_blank">@<%= twitter %></a>
+          <p class="twitter"><a href="http://twitter.com/<%= twitter %>" target="_blank">@<%= twitter %></a> on Twitter.</p>
         <% } %>
       </div>
+      
       <h3 class="legislator-name"><%= full_name %></h3>
       <h4 class="legislator-district">District <%= district %>  |  <%= chamber %> <span class="legislator-party">(<%= party %>)</span></h4>
     </div>
