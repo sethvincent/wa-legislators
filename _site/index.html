@@ -25,9 +25,13 @@
       </a>
       <h1 class="title">Washington's 2013 Legislators</h1>
     </header>
+    
     <div class="description">
       Click a legislator for details.
     </div>
+    
+    <div class="loading"></div>
+    
   </div>
   
   <!-- TEMPLATES -->
@@ -48,7 +52,7 @@
         
           <p><a href="#" target="_blank">Page on <%= chamber %> website</a></p>
         
-        <% if ( twitter !== null) { %>
+        <% if ( twitter.length > 0 ) { %>
           <p class="twitter"><a href="http://twitter.com/<%= twitter %>" target="_blank">@<%= twitter %></a></p>
         <% } %>
       </div>

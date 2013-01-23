@@ -23,6 +23,13 @@ a:active, a:focus {
   color: #1E4062;
 }
 
+.loading {
+  background-image: url("../img/loading.gif");
+  width: 16px;
+  height: 11px;
+  margin: 30px auto 30px auto;
+}
+
 .container {
   width: 617px;
   margin: 0px auto;

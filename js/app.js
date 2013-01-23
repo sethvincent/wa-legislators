@@ -35,6 +35,8 @@
         $('.legislator-details').hide();
       });
       
+      $('.loading').hide();
+      
     },
     simpleSheet: true 
   });
