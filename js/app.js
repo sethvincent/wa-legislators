@@ -18,11 +18,14 @@
       }).appendTo('.container');
       
       // handle popup of infobox
-      $('.legislator').click(function(event){
+      var huh = $('.legislator').click(function(event){
+        console.log(event);
         $('.legislator-details').not( $(this).children() ).hide();
         $(this).children('.legislator-details').show();
         event.stopPropagation();
       })
+      
+      console.log(huh);
       
       $('.close').click(function(event){
         event.stopPropagation();
