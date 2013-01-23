@@ -38,6 +38,7 @@ a:active, a:focus {
   width: 468px;
   margin: 0px auto;
   border: 1px solid #f1f1f1;
+  background-color: #fff;
 }
 
 header {
