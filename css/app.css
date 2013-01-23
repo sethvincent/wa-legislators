@@ -74,6 +74,7 @@ header h1 {
   min-height: 200px;
   float: left;
   margin: 0px;
+  cursor: pointer;
 }
 
 .legislator-details {
@@ -89,7 +90,7 @@ header h1 {
   padding: 20px 20px;
   border: 1px solid #c6c6c3;
   display: none;
-  cursor: pointer;
+  cursor: default;
 }
 
 .legislator-details .legislator-photo {

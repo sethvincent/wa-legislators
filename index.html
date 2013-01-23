@@ -43,6 +43,9 @@
         <img src="<%= photourl %>" />
       </div>
       
+      <h3 class="legislator-name"><%= fullname %></h3>
+      <h4 class="legislator-district">District <%= district %>  |  <%= chamber %> <span class="legislator-party">(<%= party %>)</span></h4>
+      
       <div class="legislator-details">
         <span class="close">x</span>
         <div class="legislator-photo">
@@ -58,9 +61,6 @@
           <p class="twitter"><a href="http://twitter.com/<%= twitter %>" target="_blank">@<%= twitter %></a></p>
         <% } %>
       </div>
-      
-      <h3 class="legislator-name"><%= fullname %></h3>
-      <h4 class="legislator-district">District <%= district %>  |  <%= chamber %> <span class="legislator-party">(<%= party %>)</span></h4>
     </div>
   </script>
   
