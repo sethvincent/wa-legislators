@@ -108,6 +108,10 @@ header h1 {
   border-bottom: 1px solid #e6e6e3;
 }
 
+.legislator-details p.chamber-website {
+  font-size: 12px;
+}
+
 .legislator-details p.twitter {
   clear: left;
   display: block;

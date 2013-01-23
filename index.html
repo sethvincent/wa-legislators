@@ -55,7 +55,7 @@
         <h4 class="legislator-district">District <%= district %>  |  <%= chamber %> <span class="legislator-party">(<%= party %>)</span></h4>
         <p class="legislator-profile"><a href="<%= legprofile %>" target="_blank">Profile on leg.wa.gov</a></p>
         
-          <p><a href="#" target="_blank">Page on <%= chamber %> website</a></p>
+          <p class="chamber-website"><a href="<%= chamberwebsite %>" target="_blank"><%= fullname %>'s page on <%= chamber %> website</a></p>
         
         <% if ( twitter.length > 0 ) { %>
           <p class="twitter"><a href="http://twitter.com/<%= twitter %>" target="_blank">@<%= twitter %></a></p>
