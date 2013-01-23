@@ -36,23 +36,26 @@
   <script type="text/template" id="legislator-template">
     <div class="legislator">
       <div class="legislator-photo">
-        <img src="<%= photo_url %>" />
+        <img src="<%= photourl %>" />
       </div>
       
       <div class="legislator-details">
         <span class="close">x</span>
         <div class="legislator-photo">
-          <img src="<%= photo_url %>" />
+          <img src="<%= photourl %>" />
         </div>
-        <h3 class="legislator-name"><%= full_name %></h3>
+        <h3 class="legislator-name"><%= fullname %></h3>
         <h4 class="legislator-district">District <%= district %>  |  <%= chamber %> <span class="legislator-party">(<%= party %>)</span></h4>
-        <p class="legislator-profile"><a href="<%= website %>" target="_blank">Profile on leg.wa.gov</a></p>
+        <p class="legislator-profile"><a href="<%= legprofile %>" target="_blank">Profile on leg.wa.gov</a></p>
+        
+          <p><a href="#" target="_blank">Page on <%= chamber %> website</a></p>
+        
         <% if ( twitter !== null) { %>
-          <p class="twitter"><a href="http://twitter.com/<%= twitter %>" target="_blank">@<%= twitter %></a> on Twitter.</p>
+          <p class="twitter"><a href="http://twitter.com/<%= twitter %>" target="_blank">@<%= twitter %></a></p>
         <% } %>
       </div>
       
-      <h3 class="legislator-name"><%= full_name %></h3>
+      <h3 class="legislator-name"><%= fullname %></h3>
       <h4 class="legislator-district">District <%= district %>  |  <%= chamber %> <span class="legislator-party">(<%= party %>)</span></h4>
     </div>
   </script>
@@ -60,6 +63,7 @@
   <!-- JAVASCRIPT -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="{{ site.baseurl }}/jquery-1.8.3.min.js"><\/script>')</script>
+  <script src="{{ site.baseurl }}/js/tabletop.js"></script>
   <script src="{{ site.baseurl }}/js/underscore-min.js"></script>
   <script src="{{ site.baseurl }}/js/app.js"></script>
   

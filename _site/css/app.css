@@ -10,6 +10,19 @@ textarea {
   font-smoothing: antialiased;
 }
 
+a {
+  color: #3C80C3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active, a:focus {
+  color: #1E4062;
+}
+
 .container {
   width: 617px;
   margin: 0px auto;
@@ -79,6 +92,13 @@ header h1 {
 .legislator-details h4.legislator-district {
   padding-bottom: 15px;
   border-bottom: 1px solid #d6d6d3;
+}
+
+.legislator-details p.twitter {
+  clear: left;
+  display: block;
+  width: 140px;
+  font-size: 13px;
 }
 
 p.legislator-profile {
