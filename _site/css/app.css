@@ -10,6 +10,10 @@ textarea {
   font-smoothing: antialiased;
 }
 
+body {
+  margin: 0px;
+}
+
 a {
   color: #3C80C3;
   text-decoration: none;
@@ -31,7 +35,7 @@ a:active, a:focus {
 }
 
 .container {
-  width: 617px;
+  width: 615px;
   margin: 0px auto;
   border: 1px solid #f1f1f1;
 }
@@ -74,12 +78,12 @@ header h1 {
 .legislator-details {
   background-color: #fff;
   width: 480px;
-  height: 320px;
+  height: 250px;
   z-index: 1000;
   position: fixed;
   top: 50%;
   left: 50%;
-  margin-top: -160px;
+  margin-top: -125px;
   margin-left: -240px;
   padding: 20px 20px;
   border: 1px solid #c6c6c3;
@@ -98,7 +102,7 @@ header h1 {
 
 .legislator-details h4.legislator-district {
   padding-bottom: 15px;
-  border-bottom: 1px solid #d6d6d3;
+  border-bottom: 1px solid #e6e6e3;
 }
 
 .legislator-details p.twitter {
