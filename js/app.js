@@ -20,7 +20,7 @@
       // handle popup of infobox
       $('.legislator').click(function(event){
         //event.stopPropagation();
-        console.log($(this));
+        console.log($(this).children('.legislator-details'));
         $('.legislator-details').not( $(this).children() ).hide();
         $(this).children('.legislator-details').show();
       })
