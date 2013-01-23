@@ -19,8 +19,8 @@
       
       // handle popup of infobox
       $('.legislator').click(function(event){
-        event.stopPropagation();
-        console.log("pizza");
+        //event.stopPropagation();
+        console.log($(this));
         $('.legislator-details').not( $(this).children() ).hide();
         $(this).children('.legislator-details').show();
       })
